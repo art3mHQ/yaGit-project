@@ -1,1 +1,2 @@
 1. take couple lessons on git
+2. Пройти пару тем по Git.
